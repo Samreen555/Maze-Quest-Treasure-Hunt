@@ -1,0 +1,38 @@
+﻿  TheMazeRunner.cpp
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(136,19): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(136,19): warning C4244:         with
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(136,19): warning C4244:         [
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(136,19): warning C4244:             T=float
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(136,19): warning C4244:         ]
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(137,19): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(137,19): warning C4244:         with
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(137,19): warning C4244:         [
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(137,19): warning C4244:             T=float
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(137,19): warning C4244:         ]
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(146,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(146,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(154,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(154,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(162,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(162,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(174,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(174,33): warning C4244:         with
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(174,33): warning C4244:         [
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(174,33): warning C4244:             T=float
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(174,33): warning C4244:         ]
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(174,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(174,29): warning C4244:         with
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(174,29): warning C4244:         [
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(174,29): warning C4244:             T=float
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(174,29): warning C4244:         ]
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(175,33): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(175,33): warning C4244:         with
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(175,33): warning C4244:         [
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(175,33): warning C4244:             T=float
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(175,33): warning C4244:         ]
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(175,29): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(175,29): warning C4244:         with
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(175,29): warning C4244:         [
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(175,29): warning C4244:             T=float
+D:\DSA\TheMazeRunner\TheMazeRunner.cpp(175,29): warning C4244:         ]
+  TheMazeRunner.vcxproj -> D:\DSA\TheMazeRunner\x64\Debug\TheMazeRunner.exe
